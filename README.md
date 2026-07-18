@@ -184,7 +184,7 @@ Customers-Data-Analysis-and-Dashboard-Project
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Customers-Data-Analysis-and-Dashboard-Project.git
+git clone https://github.com/princegupta0030/Customers-Data-Analysis-and-Dashboard-Project.git
 ```
 
 ### 2️⃣ Install Required Libraries

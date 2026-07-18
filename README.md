@@ -228,8 +228,7 @@ Interact with filters, slicers, and visualizations.
 Replace the image below with your dashboard screenshot.
 
 ```markdown
-![Dashboard](<img width="1417" height="734" alt="image" src="https://github.com/user-attachments/assets/f1ffc069-71fa-4921-9f52-dccaaa75bbc7" />
-)
+![Dashboard](Images/dashboards.png)
 ```
 
 ---
@@ -278,11 +277,11 @@ Replace the image below with your dashboard screenshot.
 
 **Prince Gupta**
 
-📧 Email: **your-email@example.com**
+📧 Email: **princegupta0030@gmail.com**
 
-💼 LinkedIn: **https://linkedin.com/in/your-profile**
+💼 LinkedIn: **[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prince2s/)**
 
-🐙 GitHub: **https://github.com/yourusername**
+🐙 GitHub: **[https://github.com/yourusername](https://github.com/princegupta0030)**
 
 ---
 
